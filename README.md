@@ -1,0 +1,2 @@
+# machine_learning_base_solution_for_hospital
+Machine Learning Based Solution For Hospital
